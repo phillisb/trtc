@@ -68,7 +68,6 @@ It is also an opportunity to use/learn class modules
 
 ![images/Ch05.png](images/Ch05.png)
 
-
 -----------------------------------------------------------------------------
  Chapter 6. Light and Shading
 -----------------------------------------------------------------------------
@@ -83,34 +82,107 @@ It is also an opportunity to use/learn class modules
 
 ![images/Ch06.png](images/Ch06.png)
 
+-----------------------------------------------------------------------------
+ Chapter 7. Making a Scene
+-----------------------------------------------------------------------------
+ Create World model that cosists of lights and shapes. Also implements a
+ pinhole camera object
 
+ Camera model has been modified to attempt anti-aliasing (Ch 17)
 
-# Chapter 7 
 ![images/Ch07.png](images/Ch07.png)
 
-# Chapter 9 
+-----------------------------------------------------------------------------
+ Chapter 8. Shadows
+-----------------------------------------------------------------------------
+ All the minutiae to deal with shadows
+
+ Updated model to opt out on casting shadows (Ch 11).
+
+    CastsShadow = False
+
+-----------------------------------------------------------------------------
+ Chapter 9. Planes
+-----------------------------------------------------------------------------
+ Develop a plane model
+
 ![images/Ch09.png](images/Ch09.png)
 
+-----------------------------------------------------------------------------
+ Chapter 10. Patterns
+-----------------------------------------------------------------------------
+ Develop various patterns (Stripe, Gradient, Ring, Checker)
 
-# Chapter 11-1
+ Simplistic, works better on flat surfaces
+
+-----------------------------------------------------------------------------
+ Chapter 11. Reflection and Refraction
+-----------------------------------------------------------------------------
+ Reflection and refraction model. Using Schlick function to model Fresnel
+ Effect
+
+ Modified code to return index of refraction
+   RefIndex(RI.GLASS)
+
+# Scene
 ![images/Ch11_1.png](images/Ch11_1.png)
 
-# Chapter 11-2
+# Transparency
 ![images/Ch11_2.png](images/Ch11_2.png)
 
-# Chapter 11-3
+# Fresnel
 ![images/Ch11_3.png](images/Ch11_3.png)
 
-# Chapter 12
+-----------------------------------------------------------------------------
+ Chapter 12. Cubes
+-----------------------------------------------------------------------------
+ Cube model
+
 ![images/Ch12.png](images/Ch12.png)
 
-# Chapter 13
+-----------------------------------------------------------------------------
+ Chapter 13. Cylinders
+-----------------------------------------------------------------------------
+ Cylinder & Cone models
+
 ![images/Ch13.png](images/Ch13.png)
 
-# Chapter 14
+-----------------------------------------------------------------------------
+ Chapter 14. Groups
+-----------------------------------------------------------------------------
+ Naive routine to implement a group model.
+
+ Only partially works, look at others
+
 ![images/Ch14.png](images/Ch14.png)
 
-# Chapter 9 - transparent, different RIs
+-----------------------------------------------------------------------------
+ Chapter 15. Triangles
+-----------------------------------------------------------------------------
+ Triangle model
+
+ Created simple tool to import a subset of a Wavefront file
+
+ Slower than sin to draw a simple Wavefront Object
+
+-----------------------------------------------------------------------------
+ Chapter 16. Constructive Solid Geometry (CSG)
+-----------------------------------------------------------------------------
+ N/A
+
+-----------------------------------------------------------------------------
+ Chapter 17. Next Steps
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+ Appendix 1. Rendering the Cover Image
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+ Extra
+-----------------------------------------------------------------------------
+
+# Chapter 9 w/transparency, different RIs
 ![images/3GlassBalls.png](images/3GlassBalls.png)
 
 # Scene base on Peter Shirley's work
