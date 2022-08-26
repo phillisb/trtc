@@ -14,6 +14,7 @@ It is also an opportunity to use/learn class modules
 # Chapter 9 
 ![images/Ch09.png](images/Ch09.png)
 
+
 # Chapter 11-1
 ![images/Ch11_1.png](images/Ch11_1.png)
 
@@ -23,4 +24,17 @@ It is also an opportunity to use/learn class modules
 # Chapter 11-3
 ![images/Ch11_3.png](images/Ch11_3.png)
 
+# Chapter 12
+![images/Ch12.png](images/Ch12.png)
 
+# Chapter 13
+![images/Ch13.png](images/Ch13.png)
+
+# Chapter 14
+![images/Ch14.png](images/Ch14.png)
+
+# Chapter 9 - transparent, different RIs
+![images/3GlassBalls.png](images/3GlassBalls.png)
+
+# Scene base on Peter Shirley's work
+![images/Glass.png](images/glass.png)
