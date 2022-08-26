@@ -1,6 +1,13 @@
 # trtc
-My attempt at The Raytracer Challenge by Jamis Buck. I typically work with legacy MS Office code so this was my attempt to push the VBA envelope. 
-It is also an opportunity to use/learn class modules
+My attempt at The Raytracer Challenge by Jamis Buck. I typically work with 
+legacy MS Office code so this was my attempt to push the VBA envelope. It is
+also an opportunity to use/learn VBA class modules.
+
+This project is a work in progress. All the images were generated with this
+code, but some knowledge of Excel & VBA is currently required. Working on an
+interface or rules to run the examples
+
+This site is also a work in progress. I'm learning how to use this site
 
 -----------------------------------------------------------------------------
  Chapter 1. Tuples, Points, and Vectors
