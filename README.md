@@ -4,6 +4,6 @@ It is also an opportunity to use/learn class modules
 
 #Chapter 5
  
-![Chapter 5 Demo](images/ch05.png "Logo Title Text 1")
+![images/Ch05.png](images/Ch05.png)
 
 
