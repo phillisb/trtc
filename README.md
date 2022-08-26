@@ -3,8 +3,7 @@ My attempt at The Raytracer Challenge by Jamis Buck. I typically work with legac
 It is also an opportunity to use/learn class modules
 
 #Chapter 5
-Inline-style: 
-![alt text](https://github.com/phillisb/trtc/images/ch05.png "Logo Title Text 1")
-
+ 
+![Chapter 5 Demo](images/ch05.png "Logo Title Text 1")
 
 
