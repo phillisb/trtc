@@ -38,9 +38,10 @@ This site is also a work in progress. I'm learning how to use this site
 
  Updated model to output to BMP using code found on the WWW
 
- Updated model to capture WKS output to various image formats using code
- found on the WWW.  Captures the worksheet onto a chart object as and uses
- the chartobject.save feature to write the various formats
+ Updated model, with Rng2Img subroutine, to capture WKS output to various 
+ image formats using code found on the WWW.  Captures the worksheet onto 
+ a chart object as and uses the chartobject.save feature to write the 
+ various formats
 
 -----------------------------------------------------------------------------
  Chapter 3. Matrices
@@ -73,22 +74,25 @@ This site is also a work in progress. I'm learning how to use this site
 
  Results in initial logic to display a Sphere outline in a 2D plane
 
-![images/Ch05.png](images/Ch05.png)
+![images/Ch05.png]
 
 -----------------------------------------------------------------------------
  Chapter 6. Light and Shading
 -----------------------------------------------------------------------------
  Implements Phong reflective model. Model creates and uses light and
- material objects. Light is modeled as a Pointlight
+ material objects. Light is modeled as a Pointsource. Use newPointlight
+ function in Helper module to create objects
 
  Updated model to work with multiple light sources (Ch 7 sidebar). Interface
  needs to change, Collections can't be updated and light sources are replaced
  during some of the tests
 
- Updated model to handle Spotlight (Ch 17). Need to handle fade
+ Updated model to handle Spotlight (Ch 17). Use newSpotlight function in 
+ Helper module to create objects
 
 ![images/Ch06.png](images/Ch06.png)
 
+### simple example of two light sources
 ![images/3WhiteBalls2Lights.png](images/3WhiteBalls2Lights.png)
 
 -----------------------------------------------------------------------------
