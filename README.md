@@ -74,7 +74,7 @@ This site is also a work in progress. I'm learning how to use this site
 
  Results in initial logic to display a Sphere outline in a 2D plane
 
-![images/Ch05.png]
+![images/Ch05.png](images/Ch05.png)
 
 -----------------------------------------------------------------------------
  Chapter 6. Light and Shading
@@ -87,9 +87,6 @@ This site is also a work in progress. I'm learning how to use this site
  needs to change, Collections can't be updated and light sources are replaced
  during some of the tests
 
- Updated model to handle Spotlight (Ch 17). Use newSpotlight function in 
- Helper module to create objects
-
 ![images/Ch06.png](images/Ch06.png)
 
 ### simple example of two light sources
@@ -98,11 +95,12 @@ This site is also a work in progress. I'm learning how to use this site
 -----------------------------------------------------------------------------
  Chapter 7. Making a Scene
 -----------------------------------------------------------------------------
- Create World model that cosists of lights and shapes. Also implements a
+ Create World model that cosists of a light and shapes. Also implements a
  pinhole camera object
 
  Camera model has been modified to attempt anti-aliasing (Ch 17)
 
+### Using giant spheres as walls and floors (no plane model yet)
 ![images/Ch07.png](images/Ch07.png)
 
 -----------------------------------------------------------------------------
@@ -200,9 +198,13 @@ This site is also a work in progress. I'm learning how to use this site
 -----------------------------------------------------------------------------
  Chapter 17. Next Steps
 -----------------------------------------------------------------------------
+ Updated model to handle Spotlight (Ch 17). Use newSpotlight function in 
+ Helper module to create objects
 
 ![images/3Spots.png](images/3Spots.png)
 
+ Updated to handle a Torus model referenced in (Ch 17)
+ 
 ![images/Torus.png](images/Torus.png)
 
 -----------------------------------------------------------------------------
