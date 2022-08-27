@@ -89,6 +89,8 @@ This site is also a work in progress. I'm learning how to use this site
 
 ![images/Ch06.png](images/Ch06.png)
 
+![images/3WhiteBalls2Lights.png](images/3WhiteBalls2Lights.png)
+
 -----------------------------------------------------------------------------
  Chapter 7. Making a Scene
 -----------------------------------------------------------------------------
@@ -107,6 +109,8 @@ This site is also a work in progress. I'm learning how to use this site
  Updated model to opt out on casting shadows (Ch 11).
 
     CastsShadow = False
+
+![images/Ch08.png](images/Ch08.png)
 
 -----------------------------------------------------------------------------
  Chapter 9. Planes
@@ -131,14 +135,14 @@ This site is also a work in progress. I'm learning how to use this site
  Modified code to return index of refraction
    RefIndex(RI.GLASS)
 
-# Scene
-![images/Ch11_1.png](images/Ch11_1.png)
+### Scene
+![images/Ch11_Scene.png](images/Ch11_Scene.png)
 
-# Transparency
-![images/Ch11_2.png](images/Ch11_2.png)
+### Transparency
+![images/Ch11_Transparent.png](images/Ch11_Transparent.png)
 
-# Fresnel
-![images/Ch11_3.png](images/Ch11_3.png)
+### Fresnel
+![images/Ch11_Fresnel.png](images/Ch11_Fresnel.png)
 
 -----------------------------------------------------------------------------
  Chapter 12. Cubes
@@ -147,12 +151,18 @@ This site is also a work in progress. I'm learning how to use this site
 
 ![images/Ch12.png](images/Ch12.png)
 
+![images/Cubes.png](images/Cubes.png)
+
 -----------------------------------------------------------------------------
  Chapter 13. Cylinders
 -----------------------------------------------------------------------------
  Cylinder & Cone models
 
 ![images/Ch13.png](images/Ch13.png)
+
+![images/Cylinders.png](images/Cylinders.png)
+
+![images/Cones.png](images/Cones.png)
 
 -----------------------------------------------------------------------------
  Chapter 14. Groups
@@ -172,6 +182,12 @@ This site is also a work in progress. I'm learning how to use this site
 
  Slower than sin to draw a simple Wavefront Object
 
+![images/Teapot.png](images/Teapot.png)
+
+![images/Bunny.png](images/Bunny.png)
+
+![images/Triangle.png](images/Triangle.png)
+
 -----------------------------------------------------------------------------
  Chapter 16. Constructive Solid Geometry (CSG)
 -----------------------------------------------------------------------------
@@ -181,6 +197,10 @@ This site is also a work in progress. I'm learning how to use this site
  Chapter 17. Next Steps
 -----------------------------------------------------------------------------
 
+![images/3Spots.png](images/3Spots.png)
+
+![images/Torus.png](images/Torus.png)
+
 -----------------------------------------------------------------------------
  Appendix 1. Rendering the Cover Image
 -----------------------------------------------------------------------------
@@ -189,8 +209,8 @@ This site is also a work in progress. I'm learning how to use this site
  Extra
 -----------------------------------------------------------------------------
 
-# Chapter 9 w/transparency, different RIs
+### Chapter 9 w/transparency, different RIs
 ![images/3GlassBalls.png](images/3GlassBalls.png)
 
-# Scene base on Peter Shirley's work
-![images/Glass.png](images/glass.png)
+### Scene base on Peter Shirley's work
+![images/Shirley.png](images/Shirley.png)
