@@ -208,6 +208,8 @@
  
 ![images/Torus.png](images/Torus.png)
 
+![images/Stacked.png](images/Stacked.png)
+
 -----------------------------------------------------------------------------
  Appendix 1. Rendering the Cover Image
 -----------------------------------------------------------------------------
