@@ -217,7 +217,7 @@
 -----------------------------------------------------------------------------
 
 ### Chapter 9 w/transparency, different RIs
-![images/3GlassBalls.png](images/3GlassBalls.png)
+![images/3Glass.png](images/3Glass.png)
 
 ### Scene base on Peter Shirley's work
 ![images/Shirley.png](images/Shirley.png)
